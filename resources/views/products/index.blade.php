@@ -11,7 +11,7 @@
 
     <div class="container mt-5">
 
-        <h1 class="text-center text-info bg-dark display-5 fw-bold fst-italic mb-4">Customer Database</h1>
+        <h1 class="text-center text-info bg-dark display-5 fw-bold fst-italic mb-4">Customer Databases</h1>
 
 
         <div class="text-center mb-4">
