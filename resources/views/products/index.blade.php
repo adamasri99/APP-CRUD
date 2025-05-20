@@ -16,7 +16,7 @@
 
         <div class="text-center mb-4">
             <a href="{{ route('product.create') }}" class="btn btn-primary btn-sm px-4 py-2">
-                Click Here to Add Customer
+                Click Here to Add more Customer
             </a>
         </div>
 
