@@ -1,5 +1,5 @@
 ### Install
-1. To use it just clone the repo https://gitlab.com/aminzahari/arrahnu.git
+1. To use it just clone the repo (https://github.com/adamasri99/APP-CRUD.git)
 2. Cd to koguru-arrahnu
 3. `run npm install`
 4. `run composer install`
